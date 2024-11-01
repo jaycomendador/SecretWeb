@@ -1,0 +1,16 @@
+* {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+}
+
+body{
+    height: 50vh;
+    background-image: linear-gradient(#EBC5BD, #e0bcce);
+}
+h1{
+    margin-top: 80px;
+    color:#6E605F;
+    font-size: 40px;
+}
